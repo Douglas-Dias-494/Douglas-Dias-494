@@ -91,7 +91,7 @@ Me chamo Douglas Dias, tenho 19 anos e sou natural de São Paulo. Concluí o ens
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;" 
+      style="padding-bottom: 10px;" 
       src="https://github-readme-stats.vercel.app/api?username=Douglas-Dias-494&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
