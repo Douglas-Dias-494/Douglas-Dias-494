@@ -2,7 +2,14 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Douglas Dias, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Fieb, junto com o curso técnico em redes de computadores no Senai Jandira prof Vincente Amato. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia e estou sempre pronto a aprender novas tecnologias todos os dias!
+Sou desenvolvedor com foco em back-end, especializado em construir aplicações robustas em Java com o ecossistema Spring (Spring Boot, JPA, Hibernate), desenvolvendo APIs RESTful seguras, performáticas e escaláveis.
+
+Além do universo Java, tenho experiência em outras linguagens e frameworks, como React, Angular e Node.js para front-end/back-end, e Python para automação e soluções diversas. Também possuo conhecimento em cloud AWS, integração com APIs externas, autenticação, versionamento com Git, deploy em servidores e boas práticas de arquitetura e código limpo.
+
+Sou motivado por aprender novas tecnologias e resolver problemas de forma eficiente, sempre com foco em entregar valor real para o usuário e para o negócio.
+Estou em constante busca por desafios que me permitam evoluir como profissional e contribuir com soluções criativas e funcionais.
+
+🚀 
 
 ---
 
