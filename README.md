@@ -102,6 +102,8 @@ Estou em constante busca por desafios que me permitam evoluir como profissional 
       src="https://github-readme-stats.vercel.app/api?username=Douglas-Dias-494&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
+  <hr>
+
   <img 
       align="left" 
       alt="GitHub Stats" 
